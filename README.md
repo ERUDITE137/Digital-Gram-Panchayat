@@ -30,23 +30,7 @@ Update application statuses.
 
 
 Setup and Installation
-Clone the Repository
-
-git clone [https://github.com/sheikhamir1/digital-e-gram-panchayat.git](https://github.com/sheikhamir1/Digital-Gram-Panchayat.git)
-
-
-Navigate to Project Directory
-
-cd digital-e-gram-panchayat
-Install Dependencies
-
-
-npm install
-Set Up Firebase
-
-Replace the Firebase configuration in src/FireasbeConfig.js with your Firebase project's configuration.
-Start the Development Server
-
+Clone the Repositor
 
 npm start
 
@@ -81,8 +65,5 @@ Push to the Branch
 
 git push origin feature/your-feature
 Create a Pull Request
-
-License
-This project is licensed under the MIT License.
 
 
